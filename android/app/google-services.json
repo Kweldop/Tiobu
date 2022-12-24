@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603689899098",
+    "project_id": "tiobu-4651d",
+    "storage_bucket": "tiobu-4651d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603689899098:android:097379e9cec2d6c8807463",
+        "android_client_info": {
+          "package_name": "com.parvez.tiobu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603689899098-tujog4opfp7d35ft30dm6c4654ng68tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmt0AYZLGQR1X7XNCj_Qeem-pUZefoVdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603689899098-tujog4opfp7d35ft30dm6c4654ng68tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
